@@ -14,7 +14,7 @@ For convenience, it also allows to open links in Safari.
 
 ## Install
 
-**Step 1.** [Download `Open With.app`](https://raw.githubusercontent.com/andreavaccari/open-link-with/master/README.md) and save it in a location of your choice.
+**Step 1.** [Download `Open Link With.app`](https://github.com/andreavaccari/open-link-with/releases/download/v1.0/Open-Link-With.zip) and save it in a location of your choice.
 
 **Step 2.** Install SwiftDefaultApps with `brew cask install swiftdefaultappsprefpane`
 
